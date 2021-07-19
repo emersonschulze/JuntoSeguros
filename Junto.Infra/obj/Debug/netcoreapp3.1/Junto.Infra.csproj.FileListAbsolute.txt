@@ -1,0 +1,12 @@
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.csprojAssemblyReference.cache
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.AssemblyInfoInputs.cache
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.AssemblyInfo.cs
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.csproj.CoreCompileInputs.cache
+D:\Junto.Infra\bin\Debug\netcoreapp3.1\Junto.Infra.deps.json
+D:\Junto.Infra\bin\Debug\netcoreapp3.1\Junto.Infra.dll
+D:\Junto.Infra\bin\Debug\netcoreapp3.1\Junto.Infra.pdb
+D:\Junto.Infra\bin\Debug\netcoreapp3.1\Junto.Dominio.dll
+D:\Junto.Infra\bin\Debug\netcoreapp3.1\Junto.Dominio.pdb
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.csproj.CopyComplete
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.dll
+D:\Junto.Infra\obj\Debug\netcoreapp3.1\Junto.Infra.pdb

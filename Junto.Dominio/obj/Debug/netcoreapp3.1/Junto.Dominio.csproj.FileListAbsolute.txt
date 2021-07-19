@@ -1,0 +1,9 @@
+D:\Junto.Dominio\bin\Debug\netcoreapp3.1\Junto.Dominio.deps.json
+D:\Junto.Dominio\bin\Debug\netcoreapp3.1\Junto.Dominio.dll
+D:\Junto.Dominio\bin\Debug\netcoreapp3.1\Junto.Dominio.pdb
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.AssemblyInfoInputs.cache
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.AssemblyInfo.cs
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.csproj.CoreCompileInputs.cache
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.dll
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.pdb
+D:\Junto.Dominio\obj\Debug\netcoreapp3.1\Junto.Dominio.csprojAssemblyReference.cache
